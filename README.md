@@ -15,9 +15,9 @@ Evita filas y tiempos de espera en el mostrador, permitiendo a los clientes regi
 - Consulta del estado del pedido.
 
 ## Integrantes del equipo
-- **Product Owner:** [Escribe Nombre 1]
-- **Scrum Master:** [Escribe Nombre 2]
-- **Developer:** [Escribe Nombre 3]
+- **Product Owner:** [CruzHerreraSantiagoRafael]
+- **Scrum Master:** [itzel guadalupe pulido hernandez]
+- **Developer:** [gorostieta hernandez joshua tadeo]
 
 ## Tecnologías que podrían utilizarse
 - HTML5 y CSS3 para el diseño de pantallas y formularios.
